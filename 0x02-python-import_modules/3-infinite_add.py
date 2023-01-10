@@ -1,5 +1,5 @@
-#!/us/bin/python3
-if __name == "__main__":
+#!/usr/bin/python3
+if __name__ == "__main__":
     import sys
     result = 0
     for arg in sys.argv:
